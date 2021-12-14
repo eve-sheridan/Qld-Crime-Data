@@ -2,7 +2,7 @@
 ## Queensland Crime - a data exploration and visualisation project by Eve Sheridan
 
 ### 1	Project Description, Motivation and Value
-This project will focus on analysing crime data in Queensland.  Crime affects all populated areas and understanding the types of crime being committed and the areas they are being committed in can be a valuable tool to understand the problems facing society and how to tackle them.
+This project will focus on analysing crime data in Queensland, Australia.  Crime affects all populated areas and understanding the types of crime being committed and the areas they are being committed in can be a valuable tool to understand the problems facing society and how to tackle them.
 
 Crime analysis is not a new concept, as police officers have searched for ways to discover patterns and similarities between incidents for years.  For example, the Queensland Police Service provide an Online Crime Map (Queelsand Police, 2021) which provides information on the types of crimes that happened in Queensland over the past two years on an interactive map.  You can zoom in to areas to see the number of offences committed in the selected area over a selected date range.
 
