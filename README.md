@@ -1,5 +1,5 @@
 # Qld-Crime-Data
-## Queensland Crime - a data exploration and visualisation project.  
+## Queensland Crime - a data exploration and visualisation project by Eve Sheridan
 
 ### 1	Project Description, Motivation and Value
 This project will focus on analysing crime data in Queensland.  Crime affects all populated areas and understanding the types of crime being committed and the areas they are being committed in can be a valuable tool to understand the problems facing society and how to tackle them.
